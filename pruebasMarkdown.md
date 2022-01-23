@@ -20,4 +20,5 @@ Ejemplo lista desordenada:
 * Item 2
 
 Ejemplo adjuntar imagen
+
 ![Imagen](imagenes/prueba.png)
